@@ -1,7 +1,7 @@
 <?php
 define('APIKEY', 'AIzaSyB5zY2fq6YRSMxF7HwGb8rEQ8VVRxiO6ps');
 define('GJ_CODE', 'HK');
-define('SITE_NAME', 'youtube');
+define('SITE_NAME', 'youtube4k');
 define('TITLENAME', 'youtube');
 define('EN2DEKEY', '32123wwerwertgfdgds');
 define('EMAIL', '1425528053@qq.com');
