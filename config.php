@@ -1,12 +1,12 @@
 <?php
 define('APIKEY', 'AIzaSyB5zY2fq6YRSMxF7HwGb8rEQ8VVRxiO6ps');
 define('GJ_CODE', 'HK');
-define('SITE_NAME', 'you2b1eclub');
-define('TITLENAME', 'you2beclub');
+define('SITE_NAME', 'youtube');
+define('TITLENAME', 'youtube');
 define('EN2DEKEY', '32123wwerwertgfdgds');
-define('EMAIL', '1334347212@qq.com');
-define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('EMAIL', '1425528053@qq.com');
+define('NAME', 'mxr');
+define('PASSWORD', 'Lee271828');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
